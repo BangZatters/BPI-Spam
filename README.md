@@ -11,6 +11,7 @@ $ apt-get update
 $ apt-get upgrade
 $ apt-get install git
 $ git clone https://github.com/BangZatters/BPI-Spam
+$ cd BPI-Spam
 $ bash install
 $ sh spam.sh
 Tanpa Tanda ($)
