@@ -7,9 +7,9 @@ Jangan Sampai CTRL+C Saat Sedang Proses
 Install dulu Bahannya Sebelum Pakai Tools
 
 Cara :
-$ apt-get update
-$ apt-get upgrade
-$ apt-get install git
+$ apt-get update -y
+$ apt-get upgrade -y
+$ apt-get install git -y
 $ git clone https://github.com/BangZatters/BPI-Spam
 $ cd BPI-Spam
 $ bash install
