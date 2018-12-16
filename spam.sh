@@ -136,7 +136,7 @@ echo $b "Name Tool "$a":"$e" BPI-Spam"
 sleep 0.5
 echo $b "Date made "$a":"$e" 09 December 2018"
 sleep 0.5
-echo $b "Version   "$a":"$e" 1.0"
+echo $b "Version   "$a":"$e" 1.1"
 sleep 0.5
 echo $b "Github    "$a":"$e" https://github.com/BangZatters"
 sleep 0.5
