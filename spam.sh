@@ -152,7 +152,7 @@ echo "\033[32;1mThanks To \033[31;1m:"
 python in.py
 echo $a "Enter"$f" Untuk"$d" Keluar"
 read enter
-echo "Thanks Sudah Memakai Tools BuatanKami" | lolcat
+echo "Thanks Sudah Memakai Tools Buatan Kami" | lolcat
 fi
 
 if [ $go = 1 ] || [ $go = 01 ]
