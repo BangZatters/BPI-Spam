@@ -3,7 +3,7 @@ echo -e '\033[31;1mInstalling || Please Wait';
 cd module
 apt-get update -y &> /dev/null
 apt-get upgrade -y &> /dev/null
-apt-get install curl php-curl  python python2 bash php -y &> /dev/null
+apt-get install curl php-curl  python python2 bash php ruby -y &> /dev/null
 gem install lolcat &> /dev/null
 bash inst1 &> /dev/null
 bash inst2 &> /dev/null
