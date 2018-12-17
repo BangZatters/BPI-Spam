@@ -34,8 +34,6 @@ echo $c "$aao▄︻┻̿═━一B4n9Z4tt3r5<[BPI] WAS HERE || Error : 404 Not f
 sleep 0.000000000000000000000000000001;
 echo $g "$cao▄︻┻̿═━一6etih666h05T<[BPI] WAS HERE || Error : 404 Not found";
 sleep 0.000000000000000000000000000001;
-echo $f "$gao▄︻┻̿═━一InYourT3R54K1T1_404<[BPI] WAS HERE || Error : 404 Not found";
-sleep 0.000000000000000000000000000001;
 echo $a "$cao▄︻┻̿═━一VIRxZero_<[BPI] WAS HERE || Error : 404 Not found";
 sleep 0.000000000000000000000000000001;
 done
@@ -52,7 +50,6 @@ echo $a "=========================================================";
 echo $b "Selamat Datang $e$nick$b di Tool Spam Kami";
 echo $f "Author :$a • B4n9Z4tt3r5<[BPI]
          $c • 6etih666h05T<[BPI]
-         $f • InYourT3R54K1T1_404<[BPI]
          $g • VIRxZero_<[BPI]";
 echo $e "Team :$d BangZat PhiSingeRs InDoNeSia";
 echo $a "=========================================================";
@@ -108,7 +105,6 @@ echo $b "Salam Dari Author : ";
 sleep 1;
 echo $c "• B4n9Z4tt3r5<[BPI]";
 echo $e "• 6etih666h05T<[BPI]";
-echo $f "• InYourT3R54K1T1_404<[BPI]";
 echo $a "• VIRxZero_<[BPI]";
 sleep 1;
 echo $d "Team :$g BangZat PhiSingeRs InDoNeSia";
